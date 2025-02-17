@@ -1,4 +1,7 @@
-# testing
+# Public repo
 
+Welcome to the public repo - code items i thought worth sharing or that I might need to refer to later
 
-## add more
+## Focus
+
+wind energy scada analytics are associated topics
